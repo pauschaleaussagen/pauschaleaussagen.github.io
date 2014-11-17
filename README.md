@@ -1,2 +1,0 @@
-pauschaleaussagen.github.io
-===========================
